@@ -1,4 +1,4 @@
-# Gguild Bot(這邊主要是回報問題，意見跟發布新功能)
+# Guild Bot(這邊主要是回報問題，意見跟發布新功能)
 
 Discord Guild Bot
 
